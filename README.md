@@ -42,15 +42,17 @@ Bootstrap-wysihtml5 depends on jquery and bootstrap.
 
 app/assets/stylesheets/application.css
 ``` css
+// Boootstrap 2
 *= require bootstrap-wysihtml5
-// or
+// Bootstrap 3
 *= require bootstrap-wysihtml5/b3
 ```
 
 app/assets/javascripts/application.js
 ```javascript
+// Bootstrap 2
 //= require bootstrap-wysihtml5
-// or
+// Bootstrap 3
 //= require bootstrap-wysihtml5/b3
 
 
